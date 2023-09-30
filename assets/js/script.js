@@ -45,6 +45,9 @@ function writePassword() {
       return;
       window.alert("An invalid response was entered. Try again.");
     }
+  } else {
+    window.alert("An invalid response was entered. Try again.");
+    return;
   }
 
   var lowercase = false;
