@@ -2,14 +2,14 @@
 The Git Repository for Emmanuel Exiga's Password Generator.
 
 # Purpose
-The purpose of this repository is to challenge my knowledge in JavaScript to create a password generator with safe-guards against incorrect inputs, toggleable options, and adjusting a list to the options to create a randomly generated password based off of the user's pasword length input. The site alos uses prompts, alerts, and confirm pop-up boxes to alert the user of changes and warnings. Password generators should be simple and easy to use.
+The purpose of this repository is to challenge my knowledge in JavaScript to create a password generator with safe-guards against incorrect inputs, toggleable options, and adjusting a list to the options to create a randomly generated password based off of the user's pasword length input. The site also uses prompts, alerts, and confirm pop-up boxes to alert the user of changes and warnings. Password generators should be simple and easy to use.
 
 # How To Use the Site
 (On all browsers) Click on this link: [https://apersonishere.github.io/e-exiga-professional-portfolio/ ](https://apersonishere.github.io/e-exiga-password-generator/)
 ![Screenshot_7](https://github.com/aPersonIsHere/e-exiga-password-generator/assets/33707404/8cd78199-69f6-4cea-9445-ce1bc9bcdfda)
 
 ### (All screenshots taken using Lightshot from https://app.prntscr.com/en/ . I am not endorsed by Skillbrains.)
-Click on the button "Generate Password." Next, enter a number in range of 8 to 120. The program will remove decimals and verify that the user did not enter a blank or incorrect response. If so, an error will pop-up. Otherwise, the user will need to confirm if the input length is correct as it is possible to mistype a number. Hit 'Ok' if it is correct.
+Click on the button "Generate Password." Next, enter a number in range of 8 to 120. The program will remove decimals and verify that the user did not enter an incorrect response. If so, an error will pop-up. Otherwise, the user will need to confirm if the input length is correct as it is possible to mistype a number. Hit 'Ok' if it is correct.
 ![image](https://github.com/aPersonIsHere/e-exiga-password-generator/assets/33707404/5722d07d-b9f3-404a-9845-17e502152106)
 ![image](https://github.com/aPersonIsHere/e-exiga-password-generator/assets/33707404/e38b9e70-4e78-4aa1-b983-7cd9701d2f99)
 
