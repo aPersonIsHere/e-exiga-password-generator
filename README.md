@@ -10,14 +10,15 @@ The purpose of this repository is to challenge my knowledge in JavaScript to cre
 
 Click on the button "Generate Password." Next, enter a number in range of 8 to 120. The program will remove decimals and verify that the user did not enter a blank or incorrect response. If so, an error will pop-up. Otherwise, the user will need to confirm if the input length is correct as it is possible to mistype a number. Hit 'Ok' if it is correct.
 (All screenshots taken using Lightshot from https://app.prntscr.com/en/ . I am not endorsed by Skillbrains.)
-![image](https://github.com/aPersonIsHere/e-exiga-password-generator/assets/33707404/a2da964a-2b8a-4d7c-a165-acfa5a8f2d41)
-![image](https://github.com/aPersonIsHere/e-exiga-password-generator/assets/33707404/2b3ef95d-7214-4465-8c9e-199bf1be30db)
-
+![image](https://github.com/aPersonIsHere/e-exiga-password-generator/assets/33707404/5722d07d-b9f3-404a-9845-17e502152106)
+![image](https://github.com/aPersonIsHere/e-exiga-password-generator/assets/33707404/e38b9e70-4e78-4aa1-b983-7cd9701d2f99)
 
 Now, confirm boxes will appear and ask if the password required needs the option toggled or not for each character set in order: lowercase, UPPERCASE, numbers, and special characters. If none are toggled, an error is thrown, as a password cannot be generated with no character set selected.
+![image](https://github.com/aPersonIsHere/e-exiga-password-generator/assets/33707404/1972daa7-dce9-4ee1-990f-b6f348e6b276)
 
+Finally, you may screenshot or copy the password by highlighting the mouse over the text and copying it. If multiple passwords are needed, the instructions above must be repeated for each new password.
+![image](https://github.com/aPersonIsHere/e-exiga-password-generator/assets/33707404/a73a6878-f7f5-43fb-83d4-d17987c6b12c)
 
-Finally, you may screenshot or copy the password by highlighting the mouse over the text and copying it. If multiple passwords are needed, the process above must be repeated.
 
 # Disclaimers
 I cannot promise that this repository will not damage any of your work, nor that I am liable for any damages if this repository is used. For more details, please refer to the MIT license.
