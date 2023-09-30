@@ -6,11 +6,16 @@ The purpose of this repository is to challenge my knowledge in JavaScript to cre
 
 # How To Use the Site
 (On all browsers) Click on this link: [https://apersonishere.github.io/e-exiga-professional-portfolio/ ](https://apersonishere.github.io/e-exiga-password-generator/)
+![Screenshot_7](https://github.com/aPersonIsHere/e-exiga-password-generator/assets/33707404/8cd78199-69f6-4cea-9445-ce1bc9bcdfda)
 
 Click on the button "Generate Password." Next, enter a number in range of 8 to 120. The program will remove decimals and verify that the user did not enter a blank or incorrect response. If so, an error will pop-up. Otherwise, the user will need to confirm if the input length is correct as it is possible to mistype a number. Hit 'Ok' if it is correct.
 (All screenshots taken using Lightshot from https://app.prntscr.com/en/ . I am not endorsed by Skillbrains.)
+![image](https://github.com/aPersonIsHere/e-exiga-password-generator/assets/33707404/a2da964a-2b8a-4d7c-a165-acfa5a8f2d41)
+![image](https://github.com/aPersonIsHere/e-exiga-password-generator/assets/33707404/2b3ef95d-7214-4465-8c9e-199bf1be30db)
+
 
 Now, confirm boxes will appear and ask if the password required needs the option toggled or not for each character set in order: lowercase, UPPERCASE, numbers, and special characters. If none are toggled, an error is thrown, as a password cannot be generated with no character set selected.
+
 
 Finally, you may screenshot or copy the password by highlighting the mouse over the text and copying it. If multiple passwords are needed, the process above must be repeated.
 
