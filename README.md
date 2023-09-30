@@ -8,8 +8,8 @@ The purpose of this repository is to challenge my knowledge in JavaScript to cre
 (On all browsers) Click on this link: [https://apersonishere.github.io/e-exiga-professional-portfolio/ ](https://apersonishere.github.io/e-exiga-password-generator/)
 ![Screenshot_7](https://github.com/aPersonIsHere/e-exiga-password-generator/assets/33707404/8cd78199-69f6-4cea-9445-ce1bc9bcdfda)
 
+### (All screenshots taken using Lightshot from https://app.prntscr.com/en/ . I am not endorsed by Skillbrains.)
 Click on the button "Generate Password." Next, enter a number in range of 8 to 120. The program will remove decimals and verify that the user did not enter a blank or incorrect response. If so, an error will pop-up. Otherwise, the user will need to confirm if the input length is correct as it is possible to mistype a number. Hit 'Ok' if it is correct.
-(All screenshots taken using Lightshot from https://app.prntscr.com/en/ . I am not endorsed by Skillbrains.)
 ![image](https://github.com/aPersonIsHere/e-exiga-password-generator/assets/33707404/5722d07d-b9f3-404a-9845-17e502152106)
 ![image](https://github.com/aPersonIsHere/e-exiga-password-generator/assets/33707404/e38b9e70-4e78-4aa1-b983-7cd9701d2f99)
 
